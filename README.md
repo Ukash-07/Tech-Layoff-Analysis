@@ -19,19 +19,31 @@ The analysis is implemented in Python using **Jupyter/Colab notebooks**, making 
    Tech-Layoff-Analysis/
 │
 ├── data/
+
 │ ├── raw/ # Original datasets (CSV, Excel)
+
 │ └── processed/ # Cleaned and processed datasets
+
 │
+
 ├── notebooks/ # Colab/Jupyter notebooks
+
 │ ├── EDA.ipynb # Exploratory Data Analysis
+
 │ ├── Feature_Engineering.ipynb
+
 │ └── Visualization.ipynb
+
 │
 ├── scripts/ # Optional scripts for data cleaning or automation
+
 │
 ├── visualizations/ # Charts, graphs, and plots generated
+
 │
+
 ├── requirements.txt # Required Python libraries
+
 └── README.md # Project documentation
 
 ## 📊 Dataset
